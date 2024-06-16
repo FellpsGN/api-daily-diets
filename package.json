@@ -15,6 +15,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "@types/node": "^20.14.2",
     "dotenv": "^16.4.5",
     "fastify": "^4.28.0",
     "knex": "^3.1.0",

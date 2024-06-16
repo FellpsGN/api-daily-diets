@@ -3,4 +3,4 @@ import { users } from "./routes/users"
 
 export const app = fastify()
 
-app.register(users, {prefix: "diet"})
+app.register(users, {prefix: "daily"})

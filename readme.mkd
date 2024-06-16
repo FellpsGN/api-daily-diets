@@ -1,0 +1,9 @@
+# RN
+- [ ] Deve ser possível identificar os usuários entre as requisições
+
+# RF
+- [ ] O usuário pode criar dietas
+- [ ] O usuário pode alterar os dados da dieta
+- [ ] O usuário pode apagar as dietas criadas dele mesmo
+- [ ] O usuário deve poder obter as dietas feitas por ele
+- [ ] O usuário deve poder buscar apenas uma dieta feita por ele
