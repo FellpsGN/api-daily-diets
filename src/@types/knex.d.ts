@@ -5,14 +5,17 @@ declare module "knex/types/tables" {
         users: {
             id_user: string,
             nm_user: string,
-            created_at: string
+            email: string,
+            created_at: string,
+            session_id: string
         }
         diets: {
             id_diet: string,
+            id_user: string,
             title: string,
             description: string,
             created_at: string,
-            sn_diet: string
+            is_in_diet: string
         }
     }
 }
